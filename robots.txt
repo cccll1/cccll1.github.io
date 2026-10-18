@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+# Private personal site. No crawling, no indexing.
